@@ -3,7 +3,16 @@
 This repository hosts the RnD Documentations being planned, implemented and tested by the DevOps R&D team at NeoSOFT Technologies Pvt. Ltd.
 
 ## What's new?
-Please refer [this](./RELEASES.md) document.
+Please refer [this](./WHATS_NEW.md) document.
+
+## Index
+
+| Document | Description |
+| --- | --- |
+| [What's New](./WHATS_NEW.md) | Lists all the latest releases. |
+| [Releases](RELEASES.md) | Lists all the monthly releases of R&D work. |
+| [For Contributers](FOR_CONTRIBUTERS.md) | Guidelines and document for the contributers who are collaborating for these documentations |
+| [Contributers](CONTRIBUTERS.md) | List of contributers who collaborated for this work |
 
 ## Features
 
@@ -28,20 +37,4 @@ README.md
 RELEASES.md
 WHATS_NEW.md
 ```
-
-
-## Our Contributers
-
-This WAS not possible and WILL not be possible without these priceless gems
-
-| Contributer | Email |
-| --- | --- |
-| Abhishek Kasare | abhishek.kasare@neosoftmail.com |
-| Abhishek Sonawane | abhishek.sonawane@neosoftmail.com |
-| Alkaif Khan | alkaif.khan@neosoftmail.com |
-| Priya Goundar | priya.goundar@neosoftmail.com |
-| Karan Sonawane | karan.sonawane@neosoftmail.com |
-| Swapnil Shingote | swapnil.shingote@neosoftmail.com |
-
-**Note: Listed above are/were part of the R&D team who contributed with their time and efforts for team upskilling.**
 
