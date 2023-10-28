@@ -1,6 +1,7 @@
 {
   "scripts": {
     "cm": "cz",
+    "cmlint": "commitlint",
     "prepare": "husky install"
   },
   "devDependencies": {
