@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "cm": "cz",
+    "cz": "cz",
     "cmlint": "commitlint",
     "prepare": "husky install"
   },
