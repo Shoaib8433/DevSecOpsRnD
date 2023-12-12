@@ -1,7 +1,7 @@
 import boto3
 
-aws_access_key_id = 'AKIAW7YT6Y2G6HE4373S'
-aws_secret_access_key = '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'
+aws_access_key_id = ''
+aws_secret_access_key = ''
 region_name = 'us-east-1'
 
 print("=== Instances without terminate protection ==============")
