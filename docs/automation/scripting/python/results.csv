@@ -1,0 +1,7 @@
+Account,Region,SecurityGroup,RuleDescription
+ProductionAccount,us-east-1,sg-0709980f71e732eb4,HTTP open to the world
+ProductionAccount,us-east-1,sg-0709980f71e732eb4,SSH open to the world
+ProductionAccount,us-east-1,sg-0709980f71e732eb4,MySQL open to the world
+ProductionAccount,us-east-1,sg-0151c0ccd6c11fd30,HTTP open to the world
+ProductionAccount,us-east-1,sg-0151c0ccd6c11fd30,SSH open to the world
+ProductionAccount,us-east-1,sg-0151c0ccd6c11fd30,MySQL open to the world

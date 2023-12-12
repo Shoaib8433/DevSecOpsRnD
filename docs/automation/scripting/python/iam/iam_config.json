@@ -1,0 +1,18 @@
+{
+    "users": [
+      {
+        "username": "user1",
+        "policies": [
+          "arn:aws:iam::aws:policy/AmazonS3FullAccess"
+        ]
+      },
+      {
+        "username": "user2",
+        "policies": [
+          "arn:aws:iam::aws:policy/AmazonEC2FullAccess"
+        ]
+      }
+
+    ]
+  }
+  

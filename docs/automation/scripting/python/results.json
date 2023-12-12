@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "account": "ProductionAccount",
+      "regions": [
+        {
+          "account": "ProductionAccount",
+          "region": "us-east-1",
+          "warnings": [
+            {
+              "SecurityGroup": "sg-0709980f71e732eb4",
+              "RuleDescription": "HTTP open to the world"
+            },
+            {
+              "SecurityGroup": "sg-0709980f71e732eb4",
+              "RuleDescription": "SSH open to the world"
+            },
+            {
+              "SecurityGroup": "sg-0709980f71e732eb4",
+              "RuleDescription": "MySQL open to the world"
+            },
+            {
+              "SecurityGroup": "sg-0151c0ccd6c11fd30",
+              "RuleDescription": "HTTP open to the world"
+            },
+            {
+              "SecurityGroup": "sg-0151c0ccd6c11fd30",
+              "RuleDescription": "SSH open to the world"
+            },
+            {
+              "SecurityGroup": "sg-0151c0ccd6c11fd30",
+              "RuleDescription": "MySQL open to the world"
+            }
+          ]
+        },
+        {
+          "account": "ProductionAccount",
+          "region": "us-west-2",
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}
